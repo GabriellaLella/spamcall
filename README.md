@@ -4,11 +4,11 @@ Spam Call Unlimited Terbaru menggunakan bahasa pemrograman python
 
 ## Cara Install
 ```
-$pkg install python
-$pip install requests
-$git clone https://github.com/Xractz/spamCall
-$cd SpamCall
-$python spam.py
+pkg install python
+pip install requests
+git clone https://github.com/Xractz/spamCall
+cd SpamCall
+python spam.py
 ```
 
 
